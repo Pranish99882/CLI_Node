@@ -1,0 +1,17 @@
+{
+  "name": "cli_node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "commander": "^12.1.0",
+    "lowdb": "^7.0.1",
+    "steno": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
